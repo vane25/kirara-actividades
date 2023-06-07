@@ -6,7 +6,7 @@
 $ gcloud compute instances list
 ```
 
- - Listar IPs en uso, existentes o reservadas. 
+ -1.2 Listar IPs en uso, existentes o reservadas. 
 
 ```
 $ gcloud compute addresses list - list addresses 
@@ -22,6 +22,8 @@ $ gcloud storage buckets list
  ```
  ```
 ## Referencias:
-1.1 (https://cloud.google.com/sdk/gcloud/reference/compute/addresses/list)
+- 1.1 https://cloud.google.com/compute/docs/gcloud-compute?hl=es-419
+
+- 1.2 https://cloud.google.com/sdk/gcloud/reference/compute/addresses/list
 
 
