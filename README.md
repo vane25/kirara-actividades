@@ -1,6 +1,6 @@
 # Actividad 03 Consultas de Comandos
 
- - Listar Compute Engine. 
+ -1.1 Listar Compute Engine. 
 
 ```
 $ gcloud compute instances list
@@ -21,3 +21,7 @@ $ gcloud storage buckets list
 
  ```
  ```
+## Referencias:
+1.1 (https://cloud.google.com/sdk/gcloud/reference/compute/addresses/list)
+
+
