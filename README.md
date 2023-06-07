@@ -11,7 +11,7 @@ $ gcloud compute instances list
 ```
 $ gcloud compute addresses list - list addresses 
 ```
- - Listar buckets disponibles. 
+ -1.3 Listar buckets disponibles. 
 
  ```
 $ gcloud storage buckets list
@@ -26,4 +26,5 @@ $ gcloud storage buckets list
 
 - 1.2 https://cloud.google.com/sdk/gcloud/reference/compute/addresses/list
 
+- 1.3 https://download.huihoo.com/google/gdgdevkit/DVD1/developers.google.com/storage/docs/gsutil/commands/ls.html
 
