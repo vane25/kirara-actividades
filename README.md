@@ -17,9 +17,10 @@ $ gcloud compute addresses list - list addresses
 $ gcloud storage buckets list
  ```
 
- - Listar Service Accounts existentes en un proyecto. 
+ -1.4 Listar Service Accounts existentes en un proyecto. 
 
  ```
+ gcloud iam service-accounts list
  ```
 ## Referencias:
 - 1.1 https://cloud.google.com/compute/docs/gcloud-compute?hl=es-419
@@ -27,4 +28,7 @@ $ gcloud storage buckets list
 - 1.2 https://cloud.google.com/sdk/gcloud/reference/compute/addresses/list
 
 - 1.3 https://download.huihoo.com/google/gdgdevkit/DVD1/developers.google.com/storage/docs/gsutil/commands/ls.html
+
+- 1.4 https://cloud.google.com/sdk/gcloud/reference/iam/service-accounts/list
+ 
 
